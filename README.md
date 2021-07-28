@@ -3,7 +3,7 @@
 <p align="center">
   
 <a href="https://raw.githubusercontent.com/NorahMAlmutairi/Laravel_Project_Norah_News/main/Assets/logo.png.png">
-<img src="https://raw.githubusercontent.com/NorahMAlmutairi/Laravel_Project_Norah_News/main/Assets/logo.png" alt="Logo" width="350" height="200">
+<img src="https://raw.githubusercontent.com/NorahMAlmutairi/Laravel_Project_Norah_News/main/Assets/logo.png" alt="Logo" width="380" height="250">
 </a>
 
 <h3 align="center">
@@ -25,7 +25,9 @@ A Laravel-Powered Project
 
 # Description
 Norah News is an open-source news management system that enables a news agency to seamlessly publish, manage comments, search for articles, and much more! With Norah News, publishing news in a digitally-driven world has never been easier and more fluent, giving you the time to focus on what matters, and leaving the rest for us:muscle:!
+
 The news management system is composed of two main parts. The frist part contains the public news landing page, which in itself consists of the latest 10 news articles that administrators have published. This first part also includes advanced search features, allowing users to search for articles by their titles, contents, or authors, as well as restricting the results for certain categories and date ranges. Finally, the first part includes an *About* page and a *Contact us* page that users can use to send messages and feedback to system administrators.
+
 The second part of the system focuses on administrative tasks. These include adding, editing and removing news categories, news articles, and comments. It also contains a dashboard that provides general site statistics and charts. Administrators can also read and delete messages and feedback sent by guests in the *Contact us* form. Finally, administrators can approve or reject comments posted by guests before they get public.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
