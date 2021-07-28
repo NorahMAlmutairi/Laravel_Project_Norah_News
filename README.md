@@ -1,127 +1,127 @@
 <br />
+
 <p align="center">
-  <a href="https://github.com/NorahMAlmutairi/Laravel_Project_Norah_News/blob/main/norah_news/public/images/logo.png">
-    <img src="https://github.com/NorahMAlmutairi/Laravel_Project_Norah_News/blob/main/norah_news/public/images/logo.png" alt="Logo" width="450" height="300">
-  </a>
+  
+<a href="https://raw.githubusercontent.com/NorahMAlmutairi/Laravel_Project_Norah_News/main/Assets/logo.png.png">
+<img src="https://raw.githubusercontent.com/NorahMAlmutairi/Laravel_Project_Norah_News/main/Assets/logo.png" alt="Logo" width="350" height="200">
+</a>
 
-  <h1 align="center">Norah News</h1>
-
-  <h3 align="center">
-Laravel PHP Project
-  <br />
-    <a href="http://norahnews.com"><strong>View Live »</strong></a>
+<h3 align="center">
+A Laravel-Powered Project
+<br />
+<a href="http://norahnews.com"><strong>View Live »</strong></a>
     <br />
     <br />
   </h3>
 </p>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-<details open="open" >
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      About The Project
-      <ul>
-         <li>Main Requirements</li>
-         <li>Additional Requirements</li>
-        <li>Built With</li>
-      </ul>
-    </li>
-    <li>
-      Getting Started
-      <ul>
-        <li>Prerequisites</li>
-        <li>Installation</li>
-      </ul>
-    </li>
-    <li>Demo</li>
-  </ol>
-</details>
-
-
-## About The Project
+</br></br>
 
 ![Homepage](https://raw.githubusercontent.com/NorahMAlmutairi/Laravel_Project_Norah_News/main/Assets/HomePage.png)
 
-This is a news website that contain two parts,
-first is the public news landing page and the other is an admin dashboard to
-add, edit and delete news. 
+</br>
 
-### Main Requirements
-* Admin login page.
-* Admin shall Add news.
-* News contain the following (title, category, author name, content (can
-have video and images) and date of publish)
-* Admin shall Edit news.
-* Admin shall Delete news.
-* Admin have main dashboard that have charts to display total news,
-number of news per category.
-* All news shall be displayed on the public news landing page as following
-(last 10 news in main page and all remaining in another page with search
-feature)
-* public news landing page shall have about us and contact us pages
+# Description
+Norah News is an open-source news management system that enables a news agency to seamlessly publish, manage comments, search for articles, and much more! With Norah News, publishing news in a digitally-driven world has never been easier and more fluent, giving you the time to focus on what matters, and leaving the rest for us:muscle:!
+The news management system is composed of two main parts. The frist part contains the public news landing page, which in itself consists of the latest 10 news articles that administrators have published. This first part also includes advanced search features, allowing users to search for articles by their titles, contents, or authors, as well as restricting the results for certain categories and date ranges. Finally, the first part includes an *About* page and a *Contact us* page that users can use to send messages and feedback to system administrators.
+The second part of the system focuses on administrative tasks. These include adding, editing and removing news categories, news articles, and comments. It also contains a dashboard that provides general site statistics and charts. Administrators can also read and delete messages and feedback sent by guests in the *Contact us* form. Finally, administrators can approve or reject comments posted by guests before they get public.
 
-### Additional Requirements
-* Users can add a comment to any news but the comment will only be
-shown if the admin approves it.
-* Users shall have an advance search page with following filters (date
-range filter, Muti-selector for category filter, and search field that
-searches in (title, content and author))
-* Admin shall Edit a comment.
-* Admin shall show/hide a comment.
-* Admin shall delete a comment.
-* Admin shall have a chart for total hidden and shown comments in the
-main dashboard
-* Admin shall have number of visitors for each news.
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
+# Features
+* 🔒 Administrative authentication
+* 📝 Publishing news articles with styled HTML elements
+* 🖼️ Adding images to news articles
+* 📹 Adding videos to news articles
+* ✍️ Editing previously published news articles
+* ❌ Deleting published news articles
+* 📊 Administrative dashboards with charts and statistics
+* 🔍 Advanced searching facilities for new articles and categories 
+* :telephone_receiver: About and contact pages to send messages to administrators
+* 💭 Guests can share their thoughts by writing comments in news articles 
+* :unlock: Administrative comments screening and approving process
+* :pencil2: Modifying and editing comments by administrators
+* :no_entry_sign: Hiding and deleting comments by administartors
+* :walking: Visitors count on each news article
 
-### Built With
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+# Technology Stack
+<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a> <strong>HTML5</strong>
 
+<a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="21px" height="21px"></a> <strong>CSS3</strong>
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a> <strong>JavaScript</strong>
 
+<a href="https://php.net/" title="PHP"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="21px" height="21px"></a> <strong>PHP</strong>
 
-<!-- GETTING STARTED -->
-## Getting Started
+<a href="https://laravel.com/" title="Laravel"><img src="https://github.com/get-icon/geticon/raw/master/icons/laravel.svg" alt="Laravel" width="21px" height="21px"></a> <strong>Laravel</strong>
 
-### Prerequisites
-* Composer
-* XAMPP
+<a href="https://getcomposer.org/" title="Composer"><img src="https://github.com/get-icon/geticon/raw/master/icons/composer.svg" alt="Composer" width="21px" height="21px"></a> <strong>Composer</strong>
 
-### Installation
+<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a> <strong>Node.js</strong>
 
-1. Clone the repo
+<a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="21px" height="21px"></a> <strong>Tailwind</strong>
+
+<a href="https://www.apachefriends.org/" title="XAMPP"><img src="https://github.com/get-icon/geticon/raw/master/icons/xampp.svg" alt="XAMPP" width="21px" height="21px"></a> <strong>XAMPP</strong> (For local development)
+
+<a href="https://www.nginx.com/" title="Nginx"><img src="https://github.com/get-icon/geticon/raw/master/icons/nginx-icon.svg" alt="Nginx" width="21px" height="21px"></a> <strong>Nginx</strong>
+
+<a href="https://aws.amazon.com/" title="AWS"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="21px" height="21px"></a> <strong>AWS</strong>
+
+<a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px"></a> <strong>MySQL</strong>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+# Entity-Relation Diagram
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/NorahMAlmutairi/Laravel_Project_Norah_News/main/Assets/News_ER_diagram.png" alt="ERDiagram" width="600px">
+</div>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+# Development Prerequisites
+* PHP >= 7.4
+* Composer >=  2.1
+* XAMPP => 7.4
+* Node => 14.17
+* MySQL => 8.0
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+# Installation
+After cloning the repo, make sure you edit the `.env` file (see `.env.example`) to accomodate your database name and credentials, and be sure to create the database in advance. Then, install all composer dependencies, followed by npm dependencies installation and building.
    ```sh
-   git clone https://github.com/NorahMAlmutairi/Laravel_Project_Norah_News.git
+   ### 1- Install composer dependencies   
+   composer install
+   ### 2- Install npm dependencies
+   npm install
+   ### 3- Build for a development environment
+   npm run dev
+   ### 4- Make the database migrations and start seeding
+   php artisan migrate --seed
+   ### 5- Make the file uploads storage folder publicly accessable
+   php artisan storage:link
+   ### 6- Start serving the project locally :)
+   php artisan serve
    ```
-2.
-3. 
-4. 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-
-
-## Demo
-
-
-https://user-images.githubusercontent.com/82478306/127309976-edbc21cd-67ff-4b8c-a042-faadb2b6f3b6.mp4
+# Demo
 
 
 
 
 
-
-## Author
-
-Norah Almutairi - [NorahMAlmutairi](https://github.com/NorahMAlmutairi) 
+https://user-images.githubusercontent.com/82478306/127321193-b494114c-9e94-4311-a6b4-65404fbb693b.mp4
 
 
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
+# Developer
+Norah Almutairi 
+* Github : [NorahMAlmutairi](https://github.com/NorahMAlmutairi) 
