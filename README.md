@@ -110,6 +110,10 @@ After cloning the repo, make sure you edit the `.env` file (see `.env.example`) 
    ### 6- Start serving the project locally :)
    php artisan serve
    ```
+   
+   The default username is `admin@norahnews.com` and password is `12345678`
+   
+  
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 # Demo
